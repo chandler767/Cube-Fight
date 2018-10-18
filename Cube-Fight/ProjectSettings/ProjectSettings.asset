@@ -678,8 +678,8 @@ PlayerSettings:
     UNet: 1
   luminIcon:
     m_Name: 
-    m_ModelFolderPath: /Users/chandler/Desktop/Icon 2/Model
-    m_PortalFolderPath: /Users/chandler/Desktop/Icon 2/Portal
+    m_ModelFolderPath: 
+    m_PortalFolderPath: 
   luminCert:
     m_CertPath: /Users/chandler/Downloads/privatekey/testcertificate.cert
     m_PrivateKeyPath: 
