@@ -45,7 +45,7 @@ The augmented world is your oyster with Magic Leap + PubNub. Here are a few idea
 <ul>
  	<li>Build a AR chess game.</li>
  	<li>Create a AR zombie shooter.</li>
- 	<li><a href="https://github.com/chandler767/Magic-Leap-Device-Control/" target="_blank" rel="noopener">Use gesture recognition </a>to control devices like a lamp or fan.</li>
+ 	<li><a href="https://github.com/chandler767/Magic-Leap-Gesture-IoT-Example" target="_blank" rel="noopener">Use gesture recognition </a>to control devices like a lamp or fan.</li>
 </ul>
 <h3 style="text-align: center;"><strong>Have suggestions or questions about the content of this post? Reach out at <a href="mailto:devrel@pubnub.com" target="_blank" rel="noopener" data-rawhref="mailto:devrel@pubnub.com">devrel@pubnub.com</a>.</strong></h3>
 <p style="text-align: center;"><em>This is Part three of my Magic Leap series. Check out the other projects/posts <a href="https://www.pubnub.com/blog/getting-started-with-magic-leap-and-unity?devrel_gh=cube-fight" target="_blank" rel="noopener">Getting Started with Magic Leap and PubNub</a> and <a href="https://www.pubnub.com/blog/magic-leap-controlling-internet-connected-devices-lights-doors-with-hand-gestures/" target="_blank" rel="noopener">Controlling Internet-connected Devices with Magic Leap Hand Gestures</a>.
