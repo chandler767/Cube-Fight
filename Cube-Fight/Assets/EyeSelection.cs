@@ -50,12 +50,12 @@ public class EyeSelection : MonoBehaviour {
             if (message.MessageResult != null) {
                 // Does the message equal the UUID for this client? 
                 if (message.MessageResult.Payload.ToString() == pn_uuid) { // Message and client UUID are the same. 
-                    meshRenderer.material = OwnedMaterial; // The user owns the game object, change color to show.
+                    meshRenderer.material = OwnedMaterial; // The user owns the game object, change material to OwnedMaterial to show.
                     looking = false;
                     owned = true;
                 } else { // Message and client UUID are NOT the same. 
                     if (owned) { // Only need to change color if the user owns the game object.
-                        meshRenderer.material = NonFocusedMaterial; // Another user has taken the game object.
+                        meshRenderer.material = NonFocusedMaterial; // Another user has taken the game object, change material to NonFocusedMaterial to show..
                         owned = false;
                     }
                 }
@@ -75,7 +75,7 @@ public class EyeSelection : MonoBehaviour {
             if (Physics.Raycast(Camera.transform.position, _heading, out rayHit, 10.0f)) { // Check for collisions of user's eye gaze with a game object.
                 if (rayHit.collider.name == meshRenderer.name) { // Check if collision is with this game object.
                     if (!owned) { // Only highlight if the user does not own the game object.
-                        meshRenderer.material = FocusedMaterial; 
+                        meshRenderer.material = FocusedMaterial;  
                         looking = true;
                     }
                 }
