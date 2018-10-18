@@ -2,7 +2,7 @@
 
 ### Multiplayer augmented reality game powered by [PubNub](https://www.pubnub.com/?devrel_gh=Cube-Fight).
 
-<img src="/Magic-Leap-Multiplayer-Demo-op.gif?raw=true" alt="Magic Leap Multiplayer Demo" width="400" align="center" />
+<img src="/Magic-Leap-Multiplayer-Demo-op.gif?raw=true" alt="Magic Leap Multiplayer Demo" width="350" align="right" />
 
 Augmented reality is a fresh new layer for gaming that promises new experiences for users and more revenue for game studios. However, AR brings new challenges to traditional game design when you start to build multi-user games and need to sync content between them. Even in single player games where there's no content to sync, there's a significant demand from users to add social experiences like <a href="https://www.pubnub.com/products/chatengine/" target="_blank" rel="noopener">chat</a> and <a href="https://www.pubnub.com/blog/realtime-highscores-leaderboards-in-unity/" target="_blank" rel="noopener">leaderboards</a>.
 
