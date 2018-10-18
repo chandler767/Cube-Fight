@@ -7,20 +7,20 @@ using UnityEngine.XR.MagicLeap;
 public class EyeFocus : MonoBehaviour {
 	public MeshRenderer meshRenderer;
 
-	// Use this for initialization
+	// Start eye tracking.
 	void Start () {
 		MLEyes.Start();
         meshRenderer = gameObject.GetComponent<MeshRenderer>();	
 	}
 	
-	// Update is called once per frame
+	// Update is called once per frame.
 	void Update () {
 		if (MLEyes.IsStarted) {
          	meshRenderer.transform.position = MLEyes.FixationPoint;
 		}
 	}
 
-	// Stop tracking
+	// Stop tracking.
 	void OnDestroy () {
         MLEyes.Stop();
     }
