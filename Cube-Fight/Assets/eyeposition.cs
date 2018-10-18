@@ -2,8 +2,9 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.XR.MagicLeap;
+// This scripts moves a game object to the fixation point of the users eyes. 
 
-public class eyeposition : MonoBehaviour {
+public class EyePosition : MonoBehaviour {
 	public MeshRenderer meshRenderer;
 
 
@@ -21,6 +22,7 @@ public class eyeposition : MonoBehaviour {
 		
 	}
 
+	// Stop tracking
 	void OnDestroy () {
         MLEyes.Stop();
     }
