@@ -7,7 +7,6 @@ using UnityEngine.XR.MagicLeap;
 public class EyeFocus : MonoBehaviour {
 	public MeshRenderer meshRenderer;
 
-
 	// Use this for initialization
 	void Start () {
 		MLEyes.Start();
