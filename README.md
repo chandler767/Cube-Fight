@@ -1,4 +1,4 @@
-# Cube-Fight
+# Cube Fight
 
 ### Multiplayer augmented reality game powered by [PubNub](https://www.pubnub.com/?devrel_gh=Cube-Fight).
 
@@ -36,7 +36,7 @@ There are three states/colors each cube can be in:
  
  <img src="https://www.pubnub.com/blog/wp-content/uploads/2018/10/image-blue-1024x768.jpg" alt="Owned Cube Fight Cube" width="300" align="center" />
  
-Each cube has the script "EyeSelection" as a component. This script handles eye tracking and controller events. When the player looks directly at a cube and pulls the trigger a message is published to PubNub to inform other players of the ownership change. When the players receive a message the cube color is updated to reflect the current state of the cube.
+Each cube has the script <a href="https://github.com/chandler767/Cube-Fight/blob/master/Cube-Fight/Assets/EyeSelection.cs" target="_blank" rel="noopener">"EyeSelection"</a> as a component. This script handles eye tracking and controller events. When the player looks directly at a cube and pulls the trigger a message is published to PubNub to inform other players of the ownership change. When the players receive a message the cube color is updated to reflect the current state of the cube.
 
 The tutorial *Create a Multiplayer Augmented Reality Game with Magic Leap (coming soon)* details how to build and run this project in full.
 
