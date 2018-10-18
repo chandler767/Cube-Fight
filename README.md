@@ -38,6 +38,8 @@ There are three states/colors each cube can be in:
  
 Each cube has the script <a href="https://github.com/chandler767/Cube-Fight/blob/master/Cube-Fight/Assets/EyeSelection.cs" target="_blank" rel="noopener">"EyeSelection"</a> as a component. This script handles eye tracking and controller events. When the player looks directly at a cube and pulls the trigger a message is published to PubNub to inform other players of the ownership change. When the players receive a message the cube color is updated to reflect the current state of the cube.
 
+## How to Build 
+
 The tutorial *Create a Multiplayer Augmented Reality Game with Magic Leap (coming soon)* details how to build and run this project in full.
 
 ## What's Next?
