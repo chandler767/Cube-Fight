@@ -9,6 +9,7 @@
 [Bb]uilds/
 Assets/AssetStoreTools*
 .cache/
+.out/
 
 # Visual Studio cache directory
 .vs/
