@@ -18,7 +18,6 @@ public class EyeFocus : MonoBehaviour {
 		if (MLEyes.IsStarted) {
          	meshRenderer.transform.position = MLEyes.FixationPoint;
 		}
-		
 	}
 
 	// Stop tracking
