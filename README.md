@@ -8,9 +8,9 @@ Augmented reality is a fresh new layer for gaming that promises new experiences 
 
 The objective of <a href="https://github.com/chandler767/Cube-Fight" target="_blank" rel="noopener">Cube Fight</a> is to take cubes from other players by using the <a href="https://creator.magicleap.com/learn/tutorials/eye-gaze-unity" target="_blank" rel="noopener">Magic Leap Eye Gaze</a> feature to select a cube and the trigger on the controller to take it. PubNub will handle transmission of messages regarding the ownership state of each cube.
 
-Learn more about how to build your own multiplayer AR game with Magic Leap and PubNub from the tutorial (coming soon).
+Learn more about how to build your own multiplayer AR game with Magic Leap and PubNub from the [tutorial](https://www.pubnub.com/blog/Multiplayer-Augmented-Reality-Game-Magic-Leap-unity/).
 
-<a href="https://www.pubnub.com/blog/?devrel_gh=Cube-Fight">
+<a href="https://www.pubnub.com/blog/Multiplayer-Augmented-Reality-Game-Magic-Leap-unity/?devrel_gh=Cube-Fight">
     <img alt="PubNub Blog" src="https://i.imgur.com/aJ927CO.png" width=260 height=98/>
 </a>
 
@@ -40,7 +40,7 @@ Each cube has the script <a href="https://github.com/chandler767/Cube-Fight/blob
 
 ## How to Build 
 
-The tutorial *Create a Multiplayer Augmented Reality Game with Magic Leap (coming soon)* details how to build and run this project in full.
+The tutorial [*Create a Multiplayer Augmented Reality Game with Magic Leap*](https://www.pubnub.com/blog/Multiplayer-Augmented-Reality-Game-Magic-Leap-unity/) details how to build and run this project in full.
 
 ## What's Next?
 The augmented world is your oyster with Magic Leap + PubNub. Here are a few ideas to get you started:
