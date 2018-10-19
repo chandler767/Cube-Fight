@@ -42,7 +42,7 @@ Each cube has the script <a href="https://github.com/chandler767/Cube-Fight/blob
 
 ## How to Build 
 
-The tutorial [*Create a Multiplayer Augmented Reality Game with Magic Leap*](https://www.pubnub.com/blog/Multiplayer-Augmented-Reality-Game-Magic-Leap-unity/) details how to build and run this project in full.
+The tutorial [*Create a Multiplayer Augmented Reality Game with Magic Leap and Unity*](https://www.pubnub.com/blog/Multiplayer-Augmented-Reality-Game-Magic-Leap-unity/) details how to build and run this project in full.
 
 ## What's Next?
 The augmented world is your oyster with Magic Leap + PubNub. Here are a few ideas to get you started:
