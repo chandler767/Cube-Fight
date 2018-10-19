@@ -15,6 +15,8 @@ Learn more about how to build your own multiplayer AR game with Magic Leap and P
 </a>
 
 ## Why PubNub and Magic Leap?
+<em>This is Part three of my Magic Leap series. Check out the other projects/posts <a href="https://www.pubnub.com/blog/getting-started-with-magic-leap-and-unity?devrel_gh=cube-fight" target="_blank" rel="noopener">Getting Started with Magic Leap and PubNub</a> and <a href="https://www.pubnub.com/blog/magic-leap-controlling-internet-connected-devices-lights-doors-with-hand-gestures/" target="_blank" rel="noopener">Controlling Internet-connected Devices with Magic Leap Hand Gestures</a>.</em>
+
 Developers have been building multiplayer games and other multi-user experiences with PubNub for years, and <a href="https://www.pubnub.com/blog/getting-started-with-magic-leap-and-unity" target="_blank" rel="noopener">PubNub definitely sees AR as next on the horizon</a>. PubNub is a natural fit in the AR world and their technology can power the realtime interaction between AR headsets or physical objects in the same location, or even across the Earth.
 
 For instance, when a Magic Leap user throws a ball in the virtual world, that motion is synchronized in realtime across every other connected user. Or if a user uses a hand gesture to turn on a light, <a href="https://github.com/chandler767/Magic-Leap-IoT-Example" target="_blank" rel="noopener">PubNub is sending the message to that light to turn on</a>. Multi-user experiences, or the relationship between the AR headset and the physical world around us, is where PubNub is required and excels.
@@ -49,5 +51,7 @@ The augmented world is your oyster with Magic Leap + PubNub. Here are a few idea
  	<li>Create a AR zombie shooter.</li>
  	<li><a href="https://github.com/chandler767/Magic-Leap-Gesture-IoT-Example" target="_blank" rel="noopener">Use gesture recognition </a>to control devices like a lamp or fan.</li>
 </ul>
-<h3 style="text-align: center;"><strong>Have suggestions or questions about the content of this post? Reach out at <a href="mailto:devrel@pubnub.com" target="_blank" rel="noopener" data-rawhref="mailto:devrel@pubnub.com">devrel@pubnub.com</a>.</strong></h3>
-<p style="text-align: center;"><em>This is Part three of my Magic Leap series. Check out the other projects/posts <a href="https://www.pubnub.com/blog/getting-started-with-magic-leap-and-unity?devrel_gh=cube-fight" target="_blank" rel="noopener">Getting Started with Magic Leap and PubNub</a> and <a href="https://www.pubnub.com/blog/magic-leap-controlling-internet-connected-devices-lights-doors-with-hand-gestures/" target="_blank" rel="noopener">Controlling Internet-connected Devices with Magic Leap Hand Gestures</a>.</p>
+
+<strong>Have suggestions or questions about the content of this post? Reach out at <a href="mailto:devrel@pubnub.com" target="_blank" rel="noopener" data-rawhref="mailto:devrel@pubnub.com">devrel@pubnub.com</a>.</strong>
+
+<em>This is Part three of my Magic Leap series. Check out the other projects/posts <a href="https://www.pubnub.com/blog/getting-started-with-magic-leap-and-unity?devrel_gh=cube-fight" target="_blank" rel="noopener">Getting Started with Magic Leap and PubNub</a> and <a href="https://www.pubnub.com/blog/magic-leap-controlling-internet-connected-devices-lights-doors-with-hand-gestures/" target="_blank" rel="noopener">Controlling Internet-connected Devices with Magic Leap Hand Gestures</a>.</em>
