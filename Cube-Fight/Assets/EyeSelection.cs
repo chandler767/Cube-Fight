@@ -6,7 +6,6 @@ using PubNubAPI;
 // Tracks the fixation point of the users eyes and selects a game object when user gazes at it.
 // When the controller trigger is pulled a message is published to a channel that is used to determine the ownership of the game object.
 
-
 public class EyeSelection : MonoBehaviour {
     public GameObject Camera;
     public Material FocusedMaterial, NonFocusedMaterial, OwnedMaterial; // User looking, user not looking, and user owns. 
@@ -61,7 +60,8 @@ public class EyeSelection : MonoBehaviour {
                 }
             }
         };
-    }    
+    }
+    
     void OnDestroy () { // Stop eye tracking and inputs.
         MLEyes.Stop();
         MLInput.OnTriggerDown -= HandleOnTriggerDown;
