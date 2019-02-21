@@ -693,6 +693,7 @@ PlayerSettings:
   - Internet
   - IdentityRead
   - WorldReconstruction
+  luminMinimumPlatformAPILevel: 3
   facebookSdkVersion: 7.9.4
   apiCompatibilityLevel: 3
   cloudProjectId: 

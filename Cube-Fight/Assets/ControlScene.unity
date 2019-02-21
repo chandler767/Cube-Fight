@@ -149,10 +149,6 @@ MonoBehaviour:
   FocusedMaterial: {fileID: 2100000, guid: 6a07903395ae14c2984c3111f4bcaaab, type: 2}
   NonFocusedMaterial: {fileID: 2100000, guid: c7efbf83ca87a4e7dabd184338248eb1, type: 2}
   OwnedMaterial: {fileID: 2100000, guid: c8f60af6917e74fa9b7f630a7df2e0df, type: 2}
-  meshRenderer: {fileID: 0}
-  looking: 0
-  owned: 0
-  pn_uuid: 
 --- !u!114 &40429707
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -445,10 +441,6 @@ MonoBehaviour:
   FocusedMaterial: {fileID: 2100000, guid: 6a07903395ae14c2984c3111f4bcaaab, type: 2}
   NonFocusedMaterial: {fileID: 2100000, guid: c7efbf83ca87a4e7dabd184338248eb1, type: 2}
   OwnedMaterial: {fileID: 2100000, guid: c8f60af6917e74fa9b7f630a7df2e0df, type: 2}
-  meshRenderer: {fileID: 0}
-  looking: 0
-  owned: 0
-  pn_uuid: 
 --- !u!114 &207147542
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -616,6 +608,8 @@ Camera:
   m_StereoConvergence: 10
   m_StereoConvergencePoint: {fileID: 0}
   m_StereoSeparation: 0.022
+  m_StabilizationDistance: 0
+  m_StabilizationMode: 0
 --- !u!4 &282840814
 Transform:
   m_ObjectHideFlags: 0
@@ -733,10 +727,6 @@ MonoBehaviour:
   FocusedMaterial: {fileID: 2100000, guid: 6a07903395ae14c2984c3111f4bcaaab, type: 2}
   NonFocusedMaterial: {fileID: 2100000, guid: c7efbf83ca87a4e7dabd184338248eb1, type: 2}
   OwnedMaterial: {fileID: 2100000, guid: c8f60af6917e74fa9b7f630a7df2e0df, type: 2}
-  meshRenderer: {fileID: 0}
-  looking: 0
-  owned: 0
-  pn_uuid: 
 --- !u!114 &476427105
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -866,10 +856,6 @@ MonoBehaviour:
   FocusedMaterial: {fileID: 2100000, guid: 6a07903395ae14c2984c3111f4bcaaab, type: 2}
   NonFocusedMaterial: {fileID: 2100000, guid: c7efbf83ca87a4e7dabd184338248eb1, type: 2}
   OwnedMaterial: {fileID: 2100000, guid: c8f60af6917e74fa9b7f630a7df2e0df, type: 2}
-  meshRenderer: {fileID: 0}
-  looking: 0
-  owned: 0
-  pn_uuid: 
 --- !u!114 &487324548
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -999,10 +985,6 @@ MonoBehaviour:
   FocusedMaterial: {fileID: 2100000, guid: 6a07903395ae14c2984c3111f4bcaaab, type: 2}
   NonFocusedMaterial: {fileID: 2100000, guid: c7efbf83ca87a4e7dabd184338248eb1, type: 2}
   OwnedMaterial: {fileID: 2100000, guid: c8f60af6917e74fa9b7f630a7df2e0df, type: 2}
-  meshRenderer: {fileID: 0}
-  looking: 0
-  owned: 0
-  pn_uuid: 
 --- !u!114 &730769972
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1228,10 +1210,6 @@ MonoBehaviour:
   FocusedMaterial: {fileID: 2100000, guid: 6a07903395ae14c2984c3111f4bcaaab, type: 2}
   NonFocusedMaterial: {fileID: 2100000, guid: c7efbf83ca87a4e7dabd184338248eb1, type: 2}
   OwnedMaterial: {fileID: 2100000, guid: c8f60af6917e74fa9b7f630a7df2e0df, type: 2}
-  meshRenderer: {fileID: 0}
-  looking: 0
-  owned: 0
-  pn_uuid: 
 --- !u!114 &823273700
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1454,10 +1432,6 @@ MonoBehaviour:
   FocusedMaterial: {fileID: 2100000, guid: 6a07903395ae14c2984c3111f4bcaaab, type: 2}
   NonFocusedMaterial: {fileID: 2100000, guid: c7efbf83ca87a4e7dabd184338248eb1, type: 2}
   OwnedMaterial: {fileID: 2100000, guid: c8f60af6917e74fa9b7f630a7df2e0df, type: 2}
-  meshRenderer: {fileID: 0}
-  looking: 0
-  owned: 0
-  pn_uuid: 
 --- !u!1 &871263446
 GameObject:
   m_ObjectHideFlags: 0
@@ -1494,10 +1468,6 @@ MonoBehaviour:
   FocusedMaterial: {fileID: 2100000, guid: 6a07903395ae14c2984c3111f4bcaaab, type: 2}
   NonFocusedMaterial: {fileID: 2100000, guid: c7efbf83ca87a4e7dabd184338248eb1, type: 2}
   OwnedMaterial: {fileID: 2100000, guid: c8f60af6917e74fa9b7f630a7df2e0df, type: 2}
-  meshRenderer: {fileID: 0}
-  looking: 0
-  owned: 0
-  pn_uuid: 
 --- !u!114 &871263448
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1627,10 +1597,6 @@ MonoBehaviour:
   FocusedMaterial: {fileID: 2100000, guid: 6a07903395ae14c2984c3111f4bcaaab, type: 2}
   NonFocusedMaterial: {fileID: 2100000, guid: c7efbf83ca87a4e7dabd184338248eb1, type: 2}
   OwnedMaterial: {fileID: 2100000, guid: c8f60af6917e74fa9b7f630a7df2e0df, type: 2}
-  meshRenderer: {fileID: 0}
-  looking: 0
-  owned: 0
-  pn_uuid: 
 --- !u!114 &1149084907
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1951,10 +1917,6 @@ MonoBehaviour:
   FocusedMaterial: {fileID: 2100000, guid: 6a07903395ae14c2984c3111f4bcaaab, type: 2}
   NonFocusedMaterial: {fileID: 2100000, guid: c7efbf83ca87a4e7dabd184338248eb1, type: 2}
   OwnedMaterial: {fileID: 2100000, guid: c8f60af6917e74fa9b7f630a7df2e0df, type: 2}
-  meshRenderer: {fileID: 0}
-  looking: 0
-  owned: 0
-  pn_uuid: 
 --- !u!114 &1546513618
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2084,10 +2046,6 @@ MonoBehaviour:
   FocusedMaterial: {fileID: 2100000, guid: 6a07903395ae14c2984c3111f4bcaaab, type: 2}
   NonFocusedMaterial: {fileID: 2100000, guid: c7efbf83ca87a4e7dabd184338248eb1, type: 2}
   OwnedMaterial: {fileID: 2100000, guid: c8f60af6917e74fa9b7f630a7df2e0df, type: 2}
-  meshRenderer: {fileID: 0}
-  looking: 0
-  owned: 0
-  pn_uuid: 
 --- !u!114 &1636572263
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2217,10 +2175,6 @@ MonoBehaviour:
   FocusedMaterial: {fileID: 2100000, guid: 6a07903395ae14c2984c3111f4bcaaab, type: 2}
   NonFocusedMaterial: {fileID: 2100000, guid: c7efbf83ca87a4e7dabd184338248eb1, type: 2}
   OwnedMaterial: {fileID: 2100000, guid: c8f60af6917e74fa9b7f630a7df2e0df, type: 2}
-  meshRenderer: {fileID: 0}
-  looking: 0
-  owned: 0
-  pn_uuid: 
 --- !u!114 &1915515963
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2350,10 +2304,6 @@ MonoBehaviour:
   FocusedMaterial: {fileID: 2100000, guid: 6a07903395ae14c2984c3111f4bcaaab, type: 2}
   NonFocusedMaterial: {fileID: 2100000, guid: c7efbf83ca87a4e7dabd184338248eb1, type: 2}
   OwnedMaterial: {fileID: 2100000, guid: c8f60af6917e74fa9b7f630a7df2e0df, type: 2}
-  meshRenderer: {fileID: 0}
-  looking: 0
-  owned: 0
-  pn_uuid: 
 --- !u!114 &1964602099
 MonoBehaviour:
   m_ObjectHideFlags: 0
